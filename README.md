@@ -1,2 +1,2 @@
-# MFC-Visual-C-
+# MFC/Visual C++
 for report
