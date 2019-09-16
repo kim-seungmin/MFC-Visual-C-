@@ -1,5 +1,6 @@
 ﻿
 // calc1Dlg.cpp: 구현 파일
+   GetDlgItemInt() 및 SetDlgItemInt 활용하기
 //
 
 #include "pch.h"
