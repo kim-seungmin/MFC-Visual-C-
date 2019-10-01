@@ -1,9 +1,0 @@
-void CPenView::OnDraw(CDC* pDC)
-{
-	CPenDoc* pDoc = GetDocument();
-	ASSERT_VALID(pDoc);
-	if (!pDoc)
-		return;
-	pDC->TextOutW(100, 100, L"I love C++");
-	
-}
